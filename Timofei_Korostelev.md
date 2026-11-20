@@ -17,9 +17,11 @@ Greater Seattle Area
 - Cloud Infrastructure
 - Python, C++, Rust
 
-## Summary
+## Description
 
-US citizen. Seattle area, on-site or hybrid. Senior Software Engineer (L5) at Google Cloud until May 2026, building and running distributed systems for Google's GPU fleet. I have 15 years of software engineering experience, including large-scale distributed systems, virtual machine hypervisor level work, and data pipelines.
+US citizen. Seattle area, on-site or hybrid.
+
+Senior Software Engineer (L5) at Google Cloud until May 2026, building and running distributed systems for Google's GPU fleet. I have 15 years of software engineering experience, including large-scale distributed systems, virtual machine hypervisor level work, and data pipelines.
 
 On the Google Cloud GPU team, I designed and built a system that runs continuously in production, verifies hundreds of thousands of AI GPUs (Nvidia H100, H200 and B200) and found GPUs with silicon defects leading to silent data corruption. The system ran isolated across multiple Google cloud clusters, and ran computationally expensive tests on idle machines, with reserve capacity sized statistically to keep the cloud's SLA. I operated it, handled incidents and created extensive postmortems.
 
